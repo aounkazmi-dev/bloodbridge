@@ -40,21 +40,21 @@ A full-stack Blood Donation Management System that connects donors, recipients, 
 
 ![Login Page](screenshots/login.png)
 
-### User Registration
+### User appointments
 
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/appointments.png)
 
-### Blood Request Form
+### Notifications
 
-![Blood Request](screenshots/request.png)
+![Blood Request](screenshots/notifications.png)
 
-### Donor Dashboard
+### Feedbacks
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/feedbacks.png)
 
-### Blood Inventory Management
+### Admin Portal
 
-![Inventory](screenshots/inventory.png)
+![Inventory](screenshots/admin.png)
 
 ---
 
